@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Prakriti Speaks Factos</title>
+	<title>Writings - Prakriti Speaks Factos</title>
 </svelte:head>
 
 <h1>Scribble Saga</h1>

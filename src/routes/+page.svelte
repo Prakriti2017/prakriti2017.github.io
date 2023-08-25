@@ -1,5 +1,6 @@
 <script>
 	import { base } from "$app/paths";
+	import FlowerIcon from "$lib/components/FlowerIcon.svelte";
 </script>
 
 <svelte:head>
@@ -7,7 +8,9 @@
 </svelte:head>
 
 <div id="header">
-	<img src="{base}/images/flower-outline.svg" alt="flower" id="flower" />
+	<div id="flower">
+		<FlowerIcon  />
+	</div>
 	<h1>Prakriti Speaks Factos</h1>
 </div>
 
@@ -37,5 +40,8 @@
 	#flower {
 		width: 30px;
 		height: 50px;
+		display: flex;
+		align-items: center;
 	}
+
 </style>
