@@ -6,12 +6,36 @@
 	<title>Prakriti Speaks Factos</title>
 </svelte:head>
 
-<h1>Prakrit Speaks Factos</h1>
+<div id="header">
+	<img src="{base}/images/flower-outline.svg" alt="flower" id="flower" />
+	<h1>Prakriti Speaks Factos</h1>
+</div>
+
+<h3>👋 Hello Everyone! My name is Prakriti.</h3>
+
+<p>I'm a wordsmith and a code conjurer.</p>
 
 <p>
-	A very opinionated site template for SvelteKit to make it a little more
-	production-ready.
+	I revel in weaving poetic verses, crafting profound/political musings, and
+	essentially jotting down whatever whimsically dances through my mind at any
+	given moment! Delightfully, you'll discover a collection of my creations
+	just a scroll below:
 </p>
-<p>
-	<a href="{base}/page-two">Here's a page using Markdown.</a>
-</p>
+
+<h3>Scribble Saga</h3>
+<ul>
+	<li>
+		<a href="{base}/writings/dear-prakriti">Dear Prakriti</a>
+	</li>
+</ul>
+
+<style>
+	#header {
+		display: flex;
+	}
+
+	#flower {
+		width: 30px;
+		height: 50px;
+	}
+</style>

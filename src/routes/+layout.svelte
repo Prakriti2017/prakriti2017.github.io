@@ -14,6 +14,6 @@
 
 <footer>
 	<p>
-		Prakriti &copy; <Year from={2020} />
+		Prakriti Saga &copy; <Year from={2020} />
 	</p>
 </footer>

@@ -17,6 +17,7 @@
 			<a href="#top" class="skip-to-content">Skip to content</a>
 			<ul>
 				<li><a href="{base}/">Home</a></li>
+				<li><a href="{base}/writings">Writings</a></li>
 			</ul>
 			<div
 				id="expander"
