@@ -21,7 +21,7 @@
 	},
 	"type": "module",
 	"engines": {
-		"node": ">= 14.0.0"
+		"node": ">= 16.20.2"
 	},
 	"scripts": {
 		"start": "vite dev --port 8000 --open",
