@@ -1,9 +1,9 @@
-<script lang="ts">
-	export let title: String;
+<script >
+	export let title
 </script>
 
 <svelte:head>
-	<title>{title ? title + " - " : ""}SvelteKitTemplate</title>
+	<title>{title ? title + " - " : ""}Prakriti Speaks Factos</title>
 </svelte:head>
 
 <slot />

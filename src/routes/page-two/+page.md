@@ -9,3 +9,7 @@ title: Page two
 # Page two
 
 Here's an example page using Markdown, and here's a component: © <Year from={2020} />.
+
+## hello this is a heading
+
+this is a paragraph

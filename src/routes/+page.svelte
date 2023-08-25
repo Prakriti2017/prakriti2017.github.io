@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-	<title>SvelteKitTemplate</title>
+	<title>Prakriti Speaks Factos</title>
 </svelte:head>
 
-<h1>Ashim's SvelteKit template</h1>
+<h1>Prakrit Speaks Factos</h1>
 
 <p>
 	A very opinionated site template for SvelteKit to make it a little more

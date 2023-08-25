@@ -16,7 +16,7 @@
 </script>
 
 <svelte:head>
-	<title>{title} - SvelteKitTemplate</title>
+	<title>{title} - Prakriti Speaks Factos</title>
 </svelte:head>
 
 <h1>{title}</h1>
