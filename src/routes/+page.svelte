@@ -30,6 +30,9 @@
 	<li>
 		<a href="{base}/writings/dear-prakriti">Dear Prakriti</a>
 	</li>
+	<li>
+		<a href="{base}/writings/leetcode">Leetcode : The stuff of nightmares</a>
+	</li>
 </ul>
 
 <style>
