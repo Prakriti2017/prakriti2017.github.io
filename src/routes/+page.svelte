@@ -9,7 +9,7 @@
 
 <div id="header">
 	<div id="flower">
-		<FlowerIcon  />
+		<FlowerIcon />
 	</div>
 	<h1>Prakriti Speaks Factos</h1>
 </div>
@@ -43,5 +43,4 @@
 		display: flex;
 		align-items: center;
 	}
-
 </style>

@@ -1,5 +1,13 @@
-<script >
-	export let title
+<script>
+	/**
+	 * @type {string}
+	 */
+	export let title;
+
+	/**
+	 * @type {string[]}
+	 */
+	export let badges = [];
 </script>
 
 <svelte:head>
@@ -7,3 +15,26 @@
 </svelte:head>
 
 <slot />
+
+<div id="badge-list">
+	{#each badges as badge}
+		<span>
+			{badge}
+		</span>
+	{/each}
+</div>
+
+<style>
+	#badge-list {
+		margin-top: 50px;
+		
+	}
+	#badge-list > span {
+		font-size: small;
+		margin: 0px 5px;
+		padding: 6px 12px;
+		background-color: var(--primary-dark1);
+		color: white;
+		border-radius: 20px;
+	}
+</style>

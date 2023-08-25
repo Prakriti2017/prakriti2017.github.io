@@ -1,5 +1,11 @@
 ---
 title: Dear Prakriti
+badges:
+    - Poetry
+    - Self Love
+    - Narcissism
+    - Maybe
+    - Hehe
 ---
 
 <script lang="ts">

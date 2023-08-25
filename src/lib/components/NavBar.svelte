@@ -3,7 +3,7 @@
 	let header: HTMLElement;
 </script>
 
-<header bind:this={header}  tabindex="-1">
+<header bind:this={header} tabindex="-1">
 	<div>
 		<nav>
 			<a href="#top" class="skip-to-content">Skip to content</a>
