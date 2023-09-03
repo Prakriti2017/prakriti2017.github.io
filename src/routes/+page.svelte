@@ -1,9 +1,10 @@
 <script>
-	import { base } from "$app/paths";
+	import { assets, base } from "$app/paths";
 	import FlowerIcon from "$lib/components/FlowerIcon.svelte";
 </script>
 
 <svelte:head>
+	<link rel="icon" type="image/svg" href="{assets}/images/logo.png" />
 	<title>Prakriti Speaks Factos</title>
 </svelte:head>
 
@@ -31,7 +32,8 @@
 		<a href="{base}/writings/dear-prakriti">Dear Prakriti</a>
 	</li>
 	<li>
-		<a href="{base}/writings/leetcode">Leetcode : The stuff of nightmares</a>
+		<a href="{base}/writings/leetcode">Leetcode : The stuff of nightmares</a
+		>
 	</li>
 </ul>
 

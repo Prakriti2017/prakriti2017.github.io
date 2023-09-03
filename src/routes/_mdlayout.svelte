@@ -29,7 +29,6 @@
 		margin-top: 50px;
 		display: flex;
 		flex-wrap: wrap;
-		
 	}
 	#badge-list > span {
 		font-size: small;
