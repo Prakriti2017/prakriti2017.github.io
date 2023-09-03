@@ -1,6 +1,9 @@
-<script>
+<script lang="ts">
 	import { assets, base } from "$app/paths";
+	import type { PageData } from "./$types";
 	import FlowerIcon from "$lib/components/FlowerIcon.svelte";
+
+	export let data: PageData;
 </script>
 
 <svelte:head>
@@ -28,13 +31,11 @@
 
 <h3>Scribble Saga</h3>
 <ul>
-	<li>
-		<a href="{base}/writings/dear-prakriti">Dear Prakriti</a>
-	</li>
-	<li>
-		<a href="{base}/writings/leetcode">Leetcode : The stuff of nightmares</a
-		>
-	</li>
+	{#each data.posts as post}
+		<li>
+			<a href="{base}/writings/{post.path}">{post.title}</a>
+		</li>
+	{/each}
 </ul>
 
 <style>

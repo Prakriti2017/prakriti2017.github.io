@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { base } from "$app/paths";
 	import type { PostMeta } from "$lib/types";
 	import Badge from "./Badge.svelte";
 	export let post: PostMeta;
@@ -6,7 +7,7 @@
 
 <div class="body">
 	<h5>{post.date}</h5>
-	<a href="/writings/{post.path}">
+	<a href="{base}/writings/{post.path}">
 		<h3>{post.title}</h3>
 	</a>
 
