@@ -1,5 +1,6 @@
 ---
 title: "Leetcode : The stuff of nightmares"
+date: "May 2, 2023"
 badges:
     - Leetcode
     - Leetcode Easy
@@ -8,7 +9,9 @@ badges:
     - Software Development
 ---
 
-# Leetcode : The stuff of nightmares
+# {title}
+
+##### {date}
 
 <hr>
 Let’s say my life is an array of events, just for fun you know, or let’s say it’s even a list(ha!), or if I’m feeling “optimal” and want to remember it by the really cool stuff that happened during that time, my life is literally a hashmap of events( I swear I feel my ancestors passing away for the second time, reading this).

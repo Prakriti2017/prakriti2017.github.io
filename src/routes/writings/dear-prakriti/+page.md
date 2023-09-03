@@ -1,5 +1,6 @@
 ---
 title: Dear Prakriti
+date: "June 15, 2023"
 badges:
     - Poetry
     - Self Love
@@ -8,7 +9,9 @@ badges:
     - Hehe
 ---
 
-# Dear Prakriti
+# {title}
+
+##### {date}
 
 <hr>
 We all write poems to our lovers, so I write one to mine.
