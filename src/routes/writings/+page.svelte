@@ -1,5 +1,9 @@
-<script>
+<script lang="ts">
 	import { base } from "$app/paths";
+	import type { PageData } from "./$types";
+	import PostCard from "$lib/components/PostCard.svelte";
+
+	export let data: PageData;
 </script>
 
 <svelte:head>
@@ -8,6 +12,6 @@
 
 <h1>Scribble Saga</h1>
 
-<p>
-	<a href="{base}/writings/dear-prakriti">Dear Prakriti</a>
-</p>
+{#each data.posts as post}
+	<PostCard {post} />
+{/each}

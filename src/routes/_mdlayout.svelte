@@ -8,6 +8,7 @@
 	 * @type {string[]}
 	 */
 	export let badges = [];
+	import Badge from "$lib/components/Badge.svelte";
 </script>
 
 <svelte:head>
@@ -18,9 +19,9 @@
 
 <div id="badge-list">
 	{#each badges as badge}
-		<span>
+		<Badge>
 			{badge}
-		</span>
+		</Badge>
 	{/each}
 </div>
 
@@ -29,13 +30,5 @@
 		margin-top: 50px;
 		display: flex;
 		flex-wrap: wrap;
-	}
-	#badge-list > span {
-		font-size: small;
-		margin: 3px 5px;
-		padding: 6px 12px;
-		background-color: var(--primary-dark1);
-		color: white;
-		border-radius: 20px;
 	}
 </style>
