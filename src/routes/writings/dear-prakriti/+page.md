@@ -8,10 +8,6 @@ badges:
     - Hehe
 ---
 
-<script lang="ts">
-	import Year from "$lib/components/Year.svelte"
-</script>
-
 # Dear Prakriti
 
 <hr>

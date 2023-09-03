@@ -8,10 +8,6 @@ badges:
     - Software Development
 ---
 
-<script lang="ts">
-	import Year from "$lib/components/Year.svelte"
-</script>
-
 # Leetcode : The stuff of nightmares
 
 <hr>
