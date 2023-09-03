@@ -27,11 +27,13 @@
 <style>
 	#badge-list {
 		margin-top: 50px;
+		display: flex;
+		flex-wrap: wrap;
 		
 	}
 	#badge-list > span {
 		font-size: small;
-		margin: 0px 5px;
+		margin: 3px 5px;
 		padding: 6px 12px;
 		background-color: var(--primary-dark1);
 		color: white;
