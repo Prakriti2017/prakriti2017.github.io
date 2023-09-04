@@ -1,6 +1,6 @@
 ---
 title: Dear Prakriti
-date: "June 15, 2023"
+date: "Jun 15, 2023"
 badges:
     - Poetry
     - Self Love

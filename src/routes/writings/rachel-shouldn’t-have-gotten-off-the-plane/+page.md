@@ -1,6 +1,6 @@
 ---
 title: "Rachel shouldn’t have gotten off the plane"
-date: "July 2, 2020"
+date: "Jul 2, 2020"
 badges:
     - Friends
 ---
