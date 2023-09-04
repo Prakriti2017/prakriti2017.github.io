@@ -1,8 +1,7 @@
 /* TEAM */
 
-	This website template was lovingly handcrafted by Travis Spomer. And modified by Ashim Sedhain.
+	This website template was lovingly handcrafted by Prakriti Adhikari
 
 /* SITE */
 
-	https://github.com/asimsedhain
 	Built with: Neovim, TypeScript, SvelteKit, and more
