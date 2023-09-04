@@ -115,7 +115,8 @@ $line-height-tiny: 24px;
 $line-height-multiple-tiny: line-height-as-multiple($line-height-tiny, $font-size-tiny);
 $font-weight-tiny: 400;
 
-$font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+$font-body: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+
 $font-accent: $font-body;
 $font-caps: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 $font-mono: Inconsolata, Consolas, SFMono-Regular, "Roboto Mono", monospace;
