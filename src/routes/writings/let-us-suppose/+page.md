@@ -4,6 +4,7 @@ date: "Nov 11, 2020"
 badges:
     - Motivation
     - Life
+excerpt: We’ve done this a lot in maths haven’t we?
 ---
 
 # {title}

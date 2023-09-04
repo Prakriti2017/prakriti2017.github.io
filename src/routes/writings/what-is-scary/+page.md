@@ -6,6 +6,7 @@ badges:
     - Interview
     - Sugar
     - Hey
+excerpt: So what are you scared of ? please don’t tell me the dead child with a missing tooth...
 ---
 
 # {title}

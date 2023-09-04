@@ -7,6 +7,7 @@ badges:
     - Narcissism
     - Maybe
     - Hehe
+excerpt: We all write poems to our lovers, so I write one to mine.
 ---
 
 # {title}

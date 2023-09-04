@@ -3,6 +3,7 @@ title: "Rachel shouldn’t have gotten off the plane"
 date: "Jul 2, 2020"
 badges:
     - Friends
+excerpt: Talk about unpopular opinion. Before you all start cancelling me, hear me out alright? Jeez...
 ---
 
 <script>

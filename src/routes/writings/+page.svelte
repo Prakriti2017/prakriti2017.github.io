@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { base } from "$app/paths";
 	import type { PageData } from "./$types";
 	import PostCard from "$lib/components/PostCard.svelte";
 

@@ -5,6 +5,6 @@ import type { PageLoad } from "./$types"
 import { getPosts } from "$lib/utils"
 
 
-export const load: PageLoad = () => {
+export const load: PageLoad = async () => {
 	return { posts: getPosts() }
 }

@@ -7,6 +7,7 @@ badges:
     - Leetcode Hard
     - Leetcode Solution
     - Software Development
+excerpt: Let’s say my life is an array of events, just for fun you know, or...
 ---
 
 # {title}

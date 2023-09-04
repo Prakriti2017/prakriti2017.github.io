@@ -6,6 +6,7 @@ badges:
     - Netfix
     - Famous
     - Script
+excerpt: So this is a commercial movie( i say movie but it’s a series, just sounds better when I say movie)...
 ---
 
 # {title}

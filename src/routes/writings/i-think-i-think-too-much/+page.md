@@ -5,6 +5,7 @@ badges:
     - Emotions
     - Human
     - Rights Issues
+excerpt: I think I think too much. No, not in an overthinking kind of way...
 ---
 
 # {title}

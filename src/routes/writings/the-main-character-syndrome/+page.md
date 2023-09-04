@@ -4,6 +4,7 @@ date: "Jan 14, 2022"
 badges:
     - Main Character
     - Life Lessons
+excerpt: I know I know, it’s been here for a long long time and yet nobody has talked about it, nobody but me, myself, and I...
 ---
 
 # {title}
