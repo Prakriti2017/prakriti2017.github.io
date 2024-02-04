@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<link rel="icon" type="image/svg" href="{assets}/images/logo.png" />
-	<title>Prakriti Speaks Factos</title>
+	<title>Prakriti Speaks Factos </title>
 </svelte:head>
 
 <div id="header">
